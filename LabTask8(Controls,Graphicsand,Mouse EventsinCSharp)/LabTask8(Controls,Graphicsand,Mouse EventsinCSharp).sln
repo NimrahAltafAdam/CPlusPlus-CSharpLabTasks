@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabTask8(Controls,Graphicsand,Mouse EventsinCSharp)", "LabTask8(Controls,Graphicsand,Mouse EventsinCSharp)\LabTask8(Controls,Graphicsand,Mouse EventsinCSharp).csproj", "{A03C7EC3-F060-4A0C-9C1F-B0F3EFBC25CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03C7EC3-F060-4A0C-9C1F-B0F3EFBC25CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03C7EC3-F060-4A0C-9C1F-B0F3EFBC25CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03C7EC3-F060-4A0C-9C1F-B0F3EFBC25CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03C7EC3-F060-4A0C-9C1F-B0F3EFBC25CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BBE51ED-7A30-41B3-B0E1-708316823CB0}
+	EndGlobalSection
+EndGlobal

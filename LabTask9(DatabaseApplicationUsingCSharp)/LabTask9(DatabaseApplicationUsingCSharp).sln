@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabTask9(DatabaseApplicationUsingCSharp)", "LabTask9(DatabaseApplicationUsingCSharp)\LabTask9(DatabaseApplicationUsingCSharp).csproj", "{12506DDF-640A-4CD0-9BFF-BABBDC21C4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12506DDF-640A-4CD0-9BFF-BABBDC21C4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12506DDF-640A-4CD0-9BFF-BABBDC21C4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12506DDF-640A-4CD0-9BFF-BABBDC21C4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12506DDF-640A-4CD0-9BFF-BABBDC21C4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC735384-BF8A-42E6-BE56-ADF60E1D6792}
+	EndGlobalSection
+EndGlobal
